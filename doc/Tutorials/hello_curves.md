@@ -2,10 +2,9 @@
 
 # Tutorial `hello_curves.py`
 
-The `hello_curves.py` script builds a `Stack` dashboard containing
-input sliders which control a parameters for a `matplotlib` curve visualization.
+The `hello_curves.py` script builds a `Stack` dashboard containing input sliders that control parameters for a `matplotlib` curve visualization.
 
-The plottting method used here can add visual elements to gizmos
+The plotting method used here can add visual elements to Gizmos
 using any technique based in
 <a href="https://matplotlib.org/">matplotlib</a>
 such as 
